@@ -4,6 +4,8 @@
   "description": "This is a Restaurant Application by Meghana Siddi",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
     "test": "jest"
   },
   "repository": {
