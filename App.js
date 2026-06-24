@@ -35,7 +35,8 @@ const Header = () =>{
     )
 }
 
-const RestaurantCard = ({resName,cuisine}) =>{
+const RestaurantCard = (props) =>{
+    let {resName,cuisine}=props;
     return (
         <div className="res-card">
             <img alt="res-logo" className="res-logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdThf2eFWvlgxhqa6bzB4OZ2vUz1o4ric9mv9YLV01jA&s=10"/>
