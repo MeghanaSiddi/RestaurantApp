@@ -35,13 +35,12 @@ const Header = () =>{
     )
 }
 
-const RestaurantCard = (props) =>{
-    console.log(props);
+const RestaurantCard = ({resName,cuisine}) =>{
     return (
         <div className="res-card">
             <img alt="res-logo" className="res-logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdThf2eFWvlgxhqa6bzB4OZ2vUz1o4ric9mv9YLV01jA&s=10"/>
-            <h3>{props.resName}</h3>
-            <h4>{props.cuisine}</h4>
+            <h3>{resName}</h3>
+            <h4>{cuisine}</h4>
             <h4>4.4 stars</h4>
             <h4>34 mins</h4>
         </div>
