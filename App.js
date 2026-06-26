@@ -1,6 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import logo from '/assets/images/logo.svg';
+import resList from "./data.json";
+
+
+// https://namastedev.com/api/v1/listRestaurants
+//  https://namastedev.com/api/v1/listRestaurantMenu/123456
 
 /**
  * Header
@@ -35,15 +40,20 @@ const Header = () =>{
     )
 }
 
+console.log(resList);
+
 const RestaurantCard = (props) =>{
-    let {resName,cuisine}=props;
+    console.log("ABC");
+    console.log(props);
+    let {name,cuisines,avgRating,sla,costForTwo,cloudinaryImageId}=props.resData.info;
     return (
         <div className="res-card">
-            <img alt="res-logo" className="res-logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdThf2eFWvlgxhqa6bzB4OZ2vUz1o4ric9mv9YLV01jA&s=10"/>
-            <h3>{resName}</h3>
-            <h4>{cuisine}</h4>
-            <h4>4.4 stars</h4>
-            <h4>34 mins</h4>
+            <img alt="res-logo" className="res-logo" src={"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/"+cloudinaryImageId}/>
+            <h3>{name}</h3>
+            <h4>{cuisines.join(", ")}</h4>
+            <h4>{avgRating}</h4>
+            <h4>{sla.slaString}</h4>
+            <h4>{costForTwo}</h4>
         </div>
     );
 }
@@ -53,8 +63,12 @@ const Body = () =>{
         <div className="body">
             <div className="search">Search</div>
             <div className="res-container">
-                <RestaurantCard resName="Meghana Foods" cuisine="Biryani, North Indian, Asian"/>
-                <RestaurantCard resName="KFC" cuisine="Burger, Fast Food"/>             
+                {resList?.gridElements?.infoWithStyle.restaurants.map((restaurant)=>(
+                    <RestaurantCard resData={restaurant}/> 
+                ))
+
+                }
+                                            
             </div>
         </div>
     )

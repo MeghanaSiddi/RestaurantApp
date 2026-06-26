@@ -1,0 +1,1717 @@
+{
+  "gridElements": {
+    "infoWithStyle": {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.FavouriteRestaurantInfoWithStyle",
+      "restaurants": [
+        {
+          "info": {
+            "id": "11095",
+            "name": "Pizza Hut",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/6/15/ae7cccd7-4c65-4188-a281-850e63150297_11095.JPG",
+            "locality": "Gachibowli",
+            "areaName": "Gachibowli",
+            "costForTwo": "₹350 for two",
+            "cuisines": ["Pizzas"],
+            "avgRating": 4.4,
+            "parentId": "721",
+            "avgRatingString": "4.4",
+            "totalRatingsString": "16K+",
+            "sla": {
+              "deliveryTime": 21,
+              "lastMileTravel": 1.9,
+              "serviceability": "SERVICEABLE",
+              "slaString": "20-25 mins",
+              "lastMileTravelString": "1.9 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2026-06-27 01:00:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "brand_cards/Badges%202026/72_Best%20in%20Pizza2026.png",
+                  "description": "Top-rated for Pizza, based on user votes."
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "description": "Top-rated for Pizza, based on user votes.",
+                        "imageId": "brand_cards/Badges%202026/72_Best%20in%20Pizza2026.png",
+                        "theme": ""
+                      }
+                    }
+                  ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "70% OFF",
+              "subHeader": "UPTO ₹130"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+              }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "4.2",
+                "ratingCount": "1.6K+"
+              },
+              "source": "GOOGLE",
+              "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            "context": "seo-data-f88a645e-182b-4cf1-99f2-02a8eca769df"
+          },
+          "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/pizza-hut-gachibowli-rest11095",
+            "type": "WEBLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "300359",
+            "name": "Barbeque Nation - Phoenix Centaurus, Gachibowli",
+            "cloudinaryImageId": "z3jnkrrq2ean8ibo5g5h",
+            "locality": "Rajendra Nagar",
+            "areaName": "Nanakramguda",
+            "costForTwo": "₹600 for two",
+            "cuisines": [
+              "North Indian",
+              "Barbecue",
+              "Kebabs",
+              "Biryani",
+              "Street Food",
+              "Snacks"
+            ],
+            "avgRating": 3.9,
+            "parentId": "2438",
+            "avgRatingString": "3.9",
+            "totalRatingsString": "2.6K+",
+            "sla": {
+              "deliveryTime": 19,
+              "lastMileTravel": 1.1,
+              "serviceability": "SERVICEABLE",
+              "slaString": "15-20 mins",
+              "lastMileTravelString": "1.1 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2026-06-27 01:00:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "android/static-assets/icons/big_rx.png",
+                  "description": "bolt!"
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "description": "bolt!",
+                        "imageId": "android/static-assets/icons/big_rx.png"
+                      }
+                    }
+                  ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "60% OFF",
+              "subHeader": "UPTO ₹120"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+              }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "4.2",
+                "ratingCount": "10K+"
+              },
+              "source": "GOOGLE",
+              "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            "context": "seo-data-f88a645e-182b-4cf1-99f2-02a8eca769df"
+          },
+          "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/barbeque-nation-phoenix-centaurus-gachibowli-rajendra-nagar-nanakramguda-rest300359",
+            "type": "WEBLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "86073",
+            "name": "Homely",
+            "cloudinaryImageId": "o61tveobb2dldb9e4pjq",
+            "locality": "Gachibowli Road",
+            "areaName": "Nanakramguda",
+            "costForTwo": "₹200 for two",
+            "cuisines": [
+              "Home Food",
+              "North Indian",
+              "South Indian",
+              "Beverages",
+              "Desserts",
+              "Thalis"
+            ],
+            "avgRating": 3.9,
+            "parentId": "4043",
+            "avgRatingString": "3.9",
+            "totalRatingsString": "70K+",
+            "sla": {
+              "deliveryTime": 55,
+              "lastMileTravel": 3,
+              "serviceability": "SERVICEABLE",
+              "slaString": "50-60 mins",
+              "lastMileTravelString": "3.0 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2026-06-26 22:59:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                  "description": "Exclusively available on Swiggy — you won't find it elsewhere."
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "C",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "description": "Exclusively available on Swiggy — you won't find it elsewhere.",
+                        "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                        "theme": ""
+                      }
+                    }
+                  ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "60% OFF",
+              "subHeader": "UPTO ₹120"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+              }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            "context": "seo-data-f88a645e-182b-4cf1-99f2-02a8eca769df"
+          },
+          "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/homely-gachibowli-road-nanakramguda-rest86073",
+            "type": "WEBLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "639490",
+            "name": "Dum Safar Biryani",
+            "cloudinaryImageId": "1154cffac2453eb0bf7fdda7e5ea1659",
+            "locality": "SRI MYTHRI SQUARE",
+            "areaName": "KONDAPUR",
+            "costForTwo": "₹500 for two",
+            "cuisines": [
+              "Biryani",
+              "Hyderabadi",
+              "Kebabs",
+              "North Indian",
+              "barbeque"
+            ],
+            "avgRating": 3.8,
+            "parentId": "351013",
+            "avgRatingString": "3.8",
+            "totalRatingsString": "1.7K+",
+            "sla": {
+              "deliveryTime": 28,
+              "lastMileTravel": 4.1,
+              "serviceability": "SERVICEABLE",
+              "slaString": "25-30 mins",
+              "lastMileTravelString": "4.1 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2026-06-27 01:00:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "60% OFF",
+              "subHeader": "UPTO ₹120"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+              }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            "context": "seo-data-f88a645e-182b-4cf1-99f2-02a8eca769df"
+          },
+          "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/dum-safar-biryani-sri-mythri-square-kondapur-rest639490",
+            "type": "WEBLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "34633",
+            "name": "Srikanya",
+            "cloudinaryImageId": "xvk2jlbijyejf09fdqkp",
+            "locality": "Kothaguda",
+            "areaName": "Kondapur",
+            "costForTwo": "₹400 for two",
+            "cuisines": ["Biryani", "Andhra", "South Indian"],
+            "avgRating": 4.2,
+            "parentId": "7317",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "118K+",
+            "sla": {
+              "deliveryTime": 36,
+              "lastMileTravel": 5.8,
+              "serviceability": "SERVICEABLE",
+              "slaString": "35-40 mins",
+              "lastMileTravelString": "5.8 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2026-06-26 22:30:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "ITEMS",
+              "subHeader": "AT ₹75"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+              }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "3.9",
+                "ratingCount": "8.2K+"
+              },
+              "source": "GOOGLE",
+              "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            "context": "seo-data-f88a645e-182b-4cf1-99f2-02a8eca769df"
+          },
+          "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/srikanya-kothaguda-kondapur-rest34633",
+            "type": "WEBLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "33040",
+            "name": "Shah Ghouse Hotel & Restaurant",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/4/11/5379f93d-7925-458f-825a-2983d8be2f9c_33040 (4).jpg",
+            "locality": "Gachibowli",
+            "areaName": "Gachibowli",
+            "costForTwo": "₹350 for two",
+            "cuisines": ["Biryani", "Chinese", "Mughlai", "Tandoor"],
+            "avgRating": 4.2,
+            "parentId": "19271",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "232K+",
+            "sla": {
+              "deliveryTime": 35,
+              "lastMileTravel": 5,
+              "serviceability": "SERVICEABLE",
+              "slaString": "30-35 mins",
+              "lastMileTravelString": "5.0 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2026-06-26 23:59:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "brand_cards/Badges%202026/40_Best%20in%20Bolt2026.png",
+                  "description": "Top-rated for Bolt, based on user votes."
+                },
+                {
+                  "imageId": "brand_cards/Badges%202026/67_Best%20in%20Mughlai2026.png",
+                  "description": "Top-rated for Mughlai, based on user votes."
+                },
+                {
+                  "imageId": "brand_cards/Badges%202026/87_Best%20in%20Hyderabadi%20Biryani2026.png",
+                  "description": "Top-rated for Hyderabadi Biryani, based on user votes."
+                }
+              ]
+            },
+            "isOpen": true,
+            "aggregatedDiscountInfoV2": {},
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "description": "Top-rated for Bolt, based on user votes.",
+                        "imageId": "brand_cards/Badges%202026/40_Best%20in%20Bolt2026.png",
+                        "theme": ""
+                      }
+                    },
+                    {
+                      "attributes": {
+                        "description": "Top-rated for Mughlai, based on user votes.",
+                        "imageId": "brand_cards/Badges%202026/67_Best%20in%20Mughlai2026.png",
+                        "theme": ""
+                      }
+                    },
+                    {
+                      "attributes": {
+                        "description": "Top-rated for Hyderabadi Biryani, based on user votes.",
+                        "imageId": "brand_cards/Badges%202026/87_Best%20in%20Hyderabadi%20Biryani2026.png",
+                        "theme": ""
+                      }
+                    }
+                  ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+              }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "3.7",
+                "ratingCount": "58K+"
+              },
+              "source": "GOOGLE",
+              "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            "context": "seo-data-f88a645e-182b-4cf1-99f2-02a8eca769df"
+          },
+          "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/shah-ghouse-hotel-and-restaurant-gachibowli-rest33040",
+            "type": "WEBLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "674540",
+            "name": "Bakingo",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/6/17/36802df7-b669-4d77-b9f1-ba8249067238_674540.JPG",
+            "locality": "TNGO S Colony",
+            "areaName": "Gachibowli",
+            "costForTwo": "₹499 for two",
+            "cuisines": ["Bakery"],
+            "avgRating": 4.6,
+            "parentId": "3818",
+            "avgRatingString": "4.6",
+            "totalRatingsString": "8.4K+",
+            "sla": {
+              "deliveryTime": 16,
+              "lastMileTravel": 2.9,
+              "serviceability": "SERVICEABLE",
+              "slaString": "15-20 mins",
+              "lastMileTravelString": "2.9 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2026-06-27 00:00:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "android/static-assets/icons/big_rx.png",
+                  "description": "bolt!"
+                },
+                {
+                  "imageId": "brand_cards/Badges%202026/43_Best%20in%20Cakes%20&%20Desserts2026.png",
+                  "description": "Top-rated for Cakes & Desserts, based on user votes."
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "description": "bolt!",
+                        "imageId": "android/static-assets/icons/big_rx.png"
+                      }
+                    },
+                    {
+                      "attributes": {
+                        "description": "Top-rated for Cakes & Desserts, based on user votes.",
+                        "imageId": "brand_cards/Badges%202026/43_Best%20in%20Cakes%20&%20Desserts2026.png",
+                        "theme": ""
+                      }
+                    }
+                  ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "₹150 OFF",
+              "subHeader": "ABOVE ₹799",
+              "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+              }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            "context": "seo-data-f88a645e-182b-4cf1-99f2-02a8eca769df"
+          },
+          "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/bakingo-tngo-s-colony-gachibowli-rest674540",
+            "type": "WEBLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "850057",
+            "name": "AnTeRa Courtyard",
+            "cloudinaryImageId": "265be6158deec1eeb174fd70b537dd55",
+            "locality": "Vattinagulapally",
+            "areaName": "Nanakramguda",
+            "costForTwo": "₹700 for two",
+            "cuisines": ["Biryani", "Indian", "Andhra"],
+            "avgRating": 4.3,
+            "parentId": "500482",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "6.6K+",
+            "sla": {
+              "deliveryTime": 23,
+              "lastMileTravel": 3.6,
+              "serviceability": "SERVICEABLE",
+              "slaString": "20-25 mins",
+              "lastMileTravelString": "3.6 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2026-06-27 00:00:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "newg.png",
+                  "description": "Premium gourmet restaurant offering an elevated, high-quality food experience."
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "description": "Premium gourmet restaurant offering an elevated, high-quality food experience.",
+                        "imageId": "newg.png",
+                        "theme": ""
+                      }
+                    }
+                  ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "ITEMS",
+              "subHeader": "AT ₹199"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+              }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            "context": "seo-data-f88a645e-182b-4cf1-99f2-02a8eca769df"
+          },
+          "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/antera-courtyard-vattinagulapally-nanakramguda-rest850057",
+            "type": "WEBLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "193588",
+            "name": "The Good Bowl",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/15/4ef7cacc-0e53-4776-8cee-3852e68b403c_193588.jpg",
+            "locality": "Near Hanuman Temple",
+            "areaName": "Nanakaramguda",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+              "Biryani",
+              "North Indian",
+              "Pastas",
+              "Punjabi",
+              "Desserts",
+              "Beverages"
+            ],
+            "avgRating": 4.3,
+            "parentId": "7918",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "3.1K+",
+            "sla": {
+              "deliveryTime": 27,
+              "lastMileTravel": 2.6,
+              "serviceability": "SERVICEABLE",
+              "slaString": "25-30 mins",
+              "lastMileTravelString": "2.6 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2026-06-26 23:59:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "ITEMS",
+              "subHeader": "AT ₹129"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+              }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            "context": "seo-data-f88a645e-182b-4cf1-99f2-02a8eca769df"
+          },
+          "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/the-good-bowl-near-hanuman-temple-nanakaramguda-rest193588",
+            "type": "WEBLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "855421",
+            "name": "Tabula Rasa Alfresco",
+            "cloudinaryImageId": "5be904c16b00d41a4d17ba1deb272e6a",
+            "locality": "Serilingampally Mandal",
+            "areaName": "Nanakramguda",
+            "costForTwo": "₹1200 for two",
+            "cuisines": [
+              "Asian",
+              "Indian",
+              "South Indian",
+              "North Indian",
+              "Continental"
+            ],
+            "avgRating": 4.4,
+            "parentId": "505834",
+            "avgRatingString": "4.4",
+            "totalRatingsString": "888",
+            "sla": {
+              "deliveryTime": 31,
+              "lastMileTravel": 3.6,
+              "serviceability": "SERVICEABLE",
+              "slaString": "30-35 mins",
+              "lastMileTravelString": "3.6 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2026-06-27 00:28:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "newg.png",
+                  "description": "Premium gourmet restaurant offering an elevated, high-quality food experience."
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "description": "Premium gourmet restaurant offering an elevated, high-quality food experience.",
+                        "imageId": "newg.png",
+                        "theme": ""
+                      }
+                    }
+                  ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "10% OFF",
+              "subHeader": "UPTO ₹40"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+              }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            "context": "seo-data-f88a645e-182b-4cf1-99f2-02a8eca769df"
+          },
+          "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/tabula-rasa-alfresco-serilingampally-mandal-nanakramguda-rest855421",
+            "type": "WEBLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "603434",
+            "name": "Goila Butter Chicken",
+            "cloudinaryImageId": "5e19832da032dd69547565e27104706f",
+            "locality": "Serilingampally",
+            "areaName": "Gachibowli",
+            "costForTwo": "₹600 for two",
+            "cuisines": ["Biryani", "Kebabs", "Desserts"],
+            "avgRating": 4,
+            "parentId": "322587",
+            "avgRatingString": "4.0",
+            "totalRatingsString": "4.3K+",
+            "sla": {
+              "deliveryTime": 30,
+              "lastMileTravel": 2.5,
+              "serviceability": "SERVICEABLE",
+              "slaString": "25-30 mins",
+              "lastMileTravelString": "2.5 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2026-06-27 00:00:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "newg.png",
+                  "description": "Premium gourmet restaurant offering an elevated, high-quality food experience."
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "description": "Premium gourmet restaurant offering an elevated, high-quality food experience.",
+                        "imageId": "newg.png",
+                        "theme": ""
+                      }
+                    }
+                  ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "ITEMS",
+              "subHeader": "AT ₹149"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+              }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            "context": "seo-data-f88a645e-182b-4cf1-99f2-02a8eca769df"
+          },
+          "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/goila-butter-chicken-serilingampally-gachibowli-rest603434",
+            "type": "WEBLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "345899",
+            "name": "Theobroma",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/6/25/e0846d7c-d61b-45e3-ad7a-4f749f835d8d_345899.JPG",
+            "locality": "Vinayak Nagar",
+            "areaName": "Vinayak Nagar",
+            "costForTwo": "₹400 for two",
+            "cuisines": ["Desserts"],
+            "avgRating": 4.4,
+            "parentId": "1040",
+            "avgRatingString": "4.4",
+            "totalRatingsString": "13K+",
+            "sla": {
+              "deliveryTime": 17,
+              "lastMileTravel": 2.4,
+              "serviceability": "SERVICEABLE",
+              "slaString": "15-20 mins",
+              "lastMileTravelString": "2.4 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2026-06-26 23:30:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "android/static-assets/icons/big_rx.png",
+                  "description": "bolt!"
+                },
+                {
+                  "imageId": "brand_cards/Badges%202026/53_Best%20in%20Gourmet2026.png",
+                  "description": "Top-rated for Gourmet, based on user votes."
+                },
+                {
+                  "imageId": "newg.png",
+                  "description": "Premium gourmet restaurant offering an elevated, high-quality food experience."
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "description": "bolt!",
+                        "imageId": "android/static-assets/icons/big_rx.png"
+                      }
+                    },
+                    {
+                      "attributes": {
+                        "description": "Top-rated for Gourmet, based on user votes.",
+                        "imageId": "brand_cards/Badges%202026/53_Best%20in%20Gourmet2026.png",
+                        "theme": ""
+                      }
+                    },
+                    {
+                      "attributes": {
+                        "description": "Premium gourmet restaurant offering an elevated, high-quality food experience.",
+                        "imageId": "newg.png",
+                        "theme": ""
+                      }
+                    }
+                  ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "ITEMS",
+              "subHeader": "AT ₹35"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+              }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "4.2",
+                "ratingCount": "587"
+              },
+              "source": "GOOGLE",
+              "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            "context": "seo-data-f88a645e-182b-4cf1-99f2-02a8eca769df"
+          },
+          "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/theobroma-vinayak-nagar-rest345899",
+            "type": "WEBLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "5217",
+            "name": "Paradise Biryani",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/3/26/005ede24-2c74-45ea-b9b8-ffb750031656_5217.JPG",
+            "locality": "Gachibowli",
+            "areaName": "Gachibowli",
+            "costForTwo": "₹400 for two",
+            "cuisines": ["Biryani", "Kebabs", "North Indian", "Hyderabadi"],
+            "avgRating": 4.2,
+            "parentId": "700",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "116K+",
+            "sla": {
+              "deliveryTime": 21,
+              "lastMileTravel": 2.2,
+              "serviceability": "SERVICEABLE",
+              "slaString": "20-25 mins",
+              "lastMileTravelString": "2.2 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2026-06-27 00:20:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "android/static-assets/icons/big_rx.png",
+                  "description": "bolt!"
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "description": "bolt!",
+                        "imageId": "android/static-assets/icons/big_rx.png"
+                      }
+                    }
+                  ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "70% OFF",
+              "subHeader": "UPTO ₹130"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+              }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "3.9",
+                "ratingCount": "28K+"
+              },
+              "source": "GOOGLE",
+              "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            "context": "seo-data-f88a645e-182b-4cf1-99f2-02a8eca769df"
+          },
+          "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/paradise-biryani-gachibowli-rest5217",
+            "type": "WEBLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "193589",
+            "name": "LunchBox - Meals and Thalis",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/16/b7fceabf-6db5-4215-89a8-29d708379b5b_193589.jpg",
+            "locality": "Near Hanuman Temple",
+            "areaName": "Nanakaramguda",
+            "costForTwo": "₹300 for two",
+            "cuisines": [
+              "Thalis",
+              "North Indian",
+              "Biryani",
+              "South Indian",
+              "Desserts",
+              "Beverages"
+            ],
+            "avgRating": 4.2,
+            "parentId": "4925",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "8.4K+",
+            "sla": {
+              "deliveryTime": 29,
+              "lastMileTravel": 2.6,
+              "serviceability": "SERVICEABLE",
+              "slaString": "25-30 mins",
+              "lastMileTravelString": "2.6 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2026-06-26 23:59:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "Health%20Hub/RX%20BADGE/BADGE2.png",
+                  "description": "Meals with high protein, low calorie and no added sugar"
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "description": "Meals with high protein, low calorie and no added sugar",
+                        "imageId": "Health%20Hub/RX%20BADGE/BADGE2.png",
+                        "theme": ""
+                      }
+                    }
+                  ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "ITEMS",
+              "subHeader": "AT ₹99"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+              }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            "context": "seo-data-f88a645e-182b-4cf1-99f2-02a8eca769df"
+          },
+          "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/lunchbox-meals-and-thalis-near-hanuman-temple-nanakaramguda-rest193589",
+            "type": "WEBLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "338288",
+            "name": "Baskin Robbins - Ice Cream Desserts",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/24/bcd66128-da7c-4eaf-9f5d-fbe53ba49af5_338288.JPG",
+            "locality": "Indira Nagar",
+            "areaName": "Gachibowli",
+            "costForTwo": "₹250 for two",
+            "cuisines": ["Desserts", "Ice Cream"],
+            "avgRating": 3.9,
+            "veg": true,
+            "parentId": "5588",
+            "avgRatingString": "3.9",
+            "totalRatingsString": "1.0K+",
+            "sla": {
+              "deliveryTime": 18,
+              "lastMileTravel": 2.1,
+              "serviceability": "SERVICEABLE",
+              "slaString": "15-20 mins",
+              "lastMileTravelString": "2.1 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2026-06-27 01:00:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "android/static-assets/icons/big_rx.png",
+                  "description": "bolt!"
+                },
+                {
+                  "imageId": "Health%20Hub/RX%20BADGE/BADGE2.png",
+                  "description": "Meals with high protein, low calorie and no added sugar"
+                },
+                {
+                  "imageId": "brand_cards/Badges%202026/56_Best%20in%20Ice%20Cream2026.png",
+                  "description": "Top-rated for Ice Cream, based on user votes."
+                },
+                {
+                  "imageId": "Ratnesh_Badges/Rx_Awards_2025/Icecream.png",
+                  "description": "Top-rated for Ice Cream, based on user votes."
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "description": "bolt!",
+                        "imageId": "android/static-assets/icons/big_rx.png"
+                      }
+                    },
+                    {
+                      "attributes": {
+                        "description": "Meals with high protein, low calorie and no added sugar",
+                        "imageId": "Health%20Hub/RX%20BADGE/BADGE2.png",
+                        "theme": ""
+                      }
+                    },
+                    {
+                      "attributes": {
+                        "description": "Top-rated for Ice Cream, based on user votes.",
+                        "imageId": "brand_cards/Badges%202026/56_Best%20in%20Ice%20Cream2026.png",
+                        "theme": ""
+                      }
+                    },
+                    {
+                      "attributes": {
+                        "description": "Top-rated for Ice Cream, based on user votes.",
+                        "imageId": "Ratnesh_Badges/Rx_Awards_2025/Icecream.png",
+                        "theme": ""
+                      }
+                    }
+                  ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "ITEMS",
+              "subHeader": "AT ₹51"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+              }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            "context": "seo-data-f88a645e-182b-4cf1-99f2-02a8eca769df"
+          },
+          "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/baskin-robbins-ice-cream-desserts-indira-nagar-gachibowli-rest338288",
+            "type": "WEBLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "224064",
+            "name": "The Biryani Life",
+            "cloudinaryImageId": "uoqumk9ncy8fxbuksops",
+            "locality": "Near Hanuman Temple",
+            "areaName": "Nanakaramguda",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+              "Biryani",
+              "Mughlai",
+              "Lucknowi",
+              "Hyderabadi",
+              "Kebabs",
+              "Desserts",
+              "Beverages"
+            ],
+            "avgRating": 3.8,
+            "parentId": "8496",
+            "avgRatingString": "3.8",
+            "totalRatingsString": "1.1K+",
+            "sla": {
+              "deliveryTime": 26,
+              "lastMileTravel": 2.6,
+              "serviceability": "SERVICEABLE",
+              "slaString": "25-30 mins",
+              "lastMileTravelString": "2.6 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2026-06-26 23:59:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "ITEMS",
+              "subHeader": "AT ₹99"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+              }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            "context": "seo-data-f88a645e-182b-4cf1-99f2-02a8eca769df"
+          },
+          "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/the-biryani-life-near-hanuman-temple-nanakaramguda-rest224064",
+            "type": "WEBLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "634470",
+            "name": "Chaayos Chai+Snacks=Relax",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/17/f92c604d-68cb-49db-8dec-9473650c363d_634470.JPG",
+            "locality": "APHB Colony",
+            "areaName": "Gachibowli",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+              "Beverages",
+              "Chaat",
+              "Bakery",
+              "Snacks",
+              "Street Food",
+              "healthy",
+              "Home Food",
+              "Maharashtrian",
+              "Italian",
+              "Desserts"
+            ],
+            "avgRating": 4.5,
+            "parentId": "281782",
+            "avgRatingString": "4.5",
+            "totalRatingsString": "5.8K+",
+            "sla": {
+              "deliveryTime": 21,
+              "lastMileTravel": 2.7,
+              "serviceability": "SERVICEABLE",
+              "slaString": "20-25 mins",
+              "lastMileTravelString": "2.7 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2026-06-27 00:00:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "android/static-assets/icons/big_rx.png",
+                  "description": "bolt!"
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "description": "bolt!",
+                        "imageId": "android/static-assets/icons/big_rx.png"
+                      }
+                    }
+                  ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "51% OFF",
+              "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+              }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            "context": "seo-data-f88a645e-182b-4cf1-99f2-02a8eca769df"
+          },
+          "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/chaayos-chai-snacks-relax-aphb-colony-gachibowli-rest634470",
+            "type": "WEBLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "264588",
+            "name": "Wow! China",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/10/22/4c317dbc-65df-428b-bf9a-7395a6c41e1c_264588.JPG",
+            "locality": "Ayyappa Heights",
+            "areaName": "Gachibowli",
+            "costForTwo": "₹300 for two",
+            "cuisines": ["Chinese", "Asian", "fastfood", "Beverages", "Snacks"],
+            "avgRating": 3.6,
+            "parentId": "226836",
+            "avgRatingString": "3.6",
+            "totalRatingsString": "5.6K+",
+            "sla": {
+              "deliveryTime": 33,
+              "lastMileTravel": 2.4,
+              "serviceability": "SERVICEABLE",
+              "slaString": "30-40 mins",
+              "lastMileTravelString": "2.4 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2026-06-27 01:00:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "brand_cards/Badges%202026/46_Best%20in%20Chinese2026.png",
+                  "description": "Top-rated for Chinese, based on user votes."
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "description": "Top-rated for Chinese, based on user votes.",
+                        "imageId": "brand_cards/Badges%202026/46_Best%20in%20Chinese2026.png",
+                        "theme": ""
+                      }
+                    }
+                  ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "70% OFF",
+              "subHeader": "UPTO ₹130"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+              }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            "context": "seo-data-f88a645e-182b-4cf1-99f2-02a8eca769df"
+          },
+          "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/wow-china-ayyappa-heights-gachibowli-rest264588",
+            "type": "WEBLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "134421",
+            "name": "Indulge Ice Cream By Almond House",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/15/63c4eca3-f65c-4bf3-bc3a-dff3e18957fe_134421.jpg",
+            "locality": "Gachibowli",
+            "areaName": "Gachibowli",
+            "costForTwo": "₹240 for two",
+            "cuisines": ["Ice Cream"],
+            "avgRating": 4.6,
+            "veg": true,
+            "parentId": "107078",
+            "avgRatingString": "4.6",
+            "totalRatingsString": "698",
+            "sla": {
+              "deliveryTime": 35,
+              "lastMileTravel": 3.6,
+              "serviceability": "SERVICEABLE",
+              "slaString": "30-40 mins",
+              "lastMileTravelString": "3.6 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2026-06-26 22:30:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "newg.png",
+                  "description": "Premium gourmet restaurant offering an elevated, high-quality food experience."
+                },
+                {
+                  "imageId": "v1695133679/badges/Pure_Veg111.png",
+                  "description": "Serves only 100% vegetarian food, with no non-veg items."
+                }
+              ]
+            },
+            "isOpen": true,
+            "aggregatedDiscountInfoV2": {},
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "description": "Premium gourmet restaurant offering an elevated, high-quality food experience.",
+                        "imageId": "newg.png",
+                        "theme": ""
+                      }
+                    },
+                    {
+                      "attributes": {
+                        "description": "Serves only 100% vegetarian food, with no non-veg items.",
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "theme": ""
+                      }
+                    }
+                  ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+              }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "4.3",
+                "ratingCount": "423"
+              },
+              "source": "GOOGLE",
+              "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            "context": "seo-data-f88a645e-182b-4cf1-99f2-02a8eca769df"
+          },
+          "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/indulge-ice-cream-by-almond-house-gachibowli-rest134421",
+            "type": "WEBLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "433991",
+            "name": "Kadir Nurman - Bonafide Shawarma",
+            "cloudinaryImageId": "ty4avqzzzhawyxdncsau",
+            "locality": "Gachibowli",
+            "areaName": "Gachibowli",
+            "costForTwo": "₹500 for two",
+            "cuisines": ["Arabian", "Lebanese", "European"],
+            "avgRating": 4.5,
+            "parentId": "321282",
+            "avgRatingString": "4.5",
+            "totalRatingsString": "8.4K+",
+            "sla": {
+              "deliveryTime": 23,
+              "lastMileTravel": 3,
+              "serviceability": "SERVICEABLE",
+              "slaString": "20-25 mins",
+              "lastMileTravelString": "3.0 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2026-06-27 07:59:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "20% OFF",
+              "subHeader": "UPTO ₹50"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+              }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "3.9",
+                "ratingCount": "70"
+              },
+              "source": "GOOGLE",
+              "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            "context": "seo-data-f88a645e-182b-4cf1-99f2-02a8eca769df"
+          },
+          "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/kadir-nurman-bonafide-shawarma-gachibowli-rest433991",
+            "type": "WEBLINK"
+          }
+        }
+      ]
+    }
+  }
+}
