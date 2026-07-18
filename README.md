@@ -18,3 +18,20 @@
 - can host our appliaction with HTTPS also.
 - Tree Shaking - Removes unused code
 - Different dev and production bundles
+
+# Meghana Food Delivery
+
+/**
+ * Header
+ * -- Logo
+ * -- Nav Items
+ * Body
+ * -- Search
+ * -- RestaurantContainer
+ *    --RestaurantCard
+* Footer  
+ *--Copyright
+ *--Links
+ *--Address
+ *--Contact
+*/
