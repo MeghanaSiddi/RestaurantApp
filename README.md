@@ -35,3 +35,20 @@
  *--Address
  *--Contact
 */
+
+
+Two types of Export/Import
+
+-Default Export/Import
+
+export default Componenyn;
+import Component from "path";
+
+-Named Export/Impoert
+
+export const Component/Variable
+import {Compoennt/Variable} from "path";
+
+
+# React Hooks
+(Normal JS utility functions)
