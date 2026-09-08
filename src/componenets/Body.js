@@ -4,7 +4,7 @@ import {useState} from "react";
 
 const Body = () => {
   
-  const [listOfRestaurants,seListOfRestaurants]=useState(resList?.gridElements?.infoWithStyle.restaurants)
+  const [listOfRestaurants,setListOfRestaurants]=useState(resList?.gridElements?.infoWithStyle.restaurants)
 
   return (
     <div className="body">
@@ -14,7 +14,7 @@ const Body = () => {
           const filteredList=listOfRestaurants.filter((res)=>
             res.info.avgRating>4
           );
-            seListOfRestaurants(filteredList);
+            setListOfRestaurants(filteredList);
         }}>
           Top Rated Restaurants
         </button></div>
